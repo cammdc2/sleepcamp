@@ -27,3 +27,4 @@ Built with 🛠️ Mention the tools you used to create your project
 Dropwizard - The web framework used Maven - Dependency manager ROME - Used to generate RSS Contributing 🖇️ Please read CONTRIBUTING.md for details of our code of conduct, and the process for sending us pull requests.
 
 https://www.sleeppanda.org
+https://drive.google.com/file/d/16h6NuNBt1XS_uMYyQ4Yj2UXvrJqzeYtp/view?usp=drive_link
